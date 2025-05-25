@@ -1,2 +1,5 @@
-# Arduino
-pequeños programas para la placa de desarrollo arduino
+# Arduino- Led RBG acompañado de potenciometros
+
+Controlaremos un led RGB  Con potenciometros
+
+
